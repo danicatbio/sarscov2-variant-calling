@@ -1,0 +1,40 @@
+# --- Datos crudos y archivos grandes (NO se suben a git) ---
+# Lecturas
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+
+# Alineamientos
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Referencia y sus índices (se descargan/regeneran con el script)
+*.fasta
+*.fa
+*.fna
+*.fai
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+
+# Informes generados
+*_fastqc.zip
+*_fastqc.html
+multiqc_data/
+
+# --- Sí se pueden versionar (pequeños): los VCF filtrados como resultado ---
+# (si algún VCF pesa demasiado, descoméntalo para excluirlo)
+# *.vcf.gz
+# *.vcf.gz.tbi
+
+# --- Sistema / entornos ---
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
