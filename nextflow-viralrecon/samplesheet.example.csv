@@ -1,0 +1,6 @@
+sample,fastq_1,fastq_2
+ERR5556343,/ruta/a/data/ERR5556343_1.fastq,/ruta/a/data/ERR5556343_2.fastq
+SRR13500958,/ruta/a/data/SRR13500958_1.fastq,/ruta/a/data/SRR13500958_2.fastq
+ERR5743893,/ruta/a/data/ERR5743893_1.fastq,/ruta/a/data/ERR5743893_2.fastq
+ERR5181310,/ruta/a/data/ERR5181310_1.fastq,/ruta/a/data/ERR5181310_2.fastq
+ERR5405022,/ruta/a/data/ERR5405022_1.fastq,/ruta/a/data/ERR5405022_2.fastq
